@@ -86,4 +86,4 @@ Git - программа для контроля версий. Git
 
 Для создания новой ветки используется команда:
 
-git branch <new_branch_name>
+    git branch <new_branch_name>
