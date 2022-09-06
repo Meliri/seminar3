@@ -94,3 +94,4 @@ Git - программа для контроля версий. Git
 
     git checkout <branch_name>
 
+### Слияние веток
